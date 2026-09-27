@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/axs/DSA/doubly_linkedlist'
+relocations:     []
+...
